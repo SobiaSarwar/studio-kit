@@ -1,0 +1,13 @@
+{
+  "name": "studio-kit",
+  "owner": {
+    "name": "Sobia"
+  },
+  "plugins": [
+    {
+      "name": "studio-kit",
+      "source": "./",
+      "description": "Reusable email studio tools: a personalize skill, a Resend send guard, and an email review agent and script."
+    }
+  ]
+}
